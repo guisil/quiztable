@@ -1,0 +1,2 @@
+Code created as an exercise. It contains some simple JDBC interactions with an Oracle database.
+For this exercise, a virtual machine containing an Oracle database in a Linux environment was used (http://www.oracle.com/technetwork/community/developer-vm/index.html).
